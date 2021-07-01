@@ -12,4 +12,4 @@ This repo is related to Google Coding Challenge, given to Bright Network Interns
 - And run Command: python -m pytest
 
 ## All Test Passed - Screenshot:
-![All test Passed!](Screenshot (23).png)
+![All test Passed!](https://github.com/afrazmuneer/Google-Assignment/blob/main/Screenshot%20(23).png)

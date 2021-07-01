@@ -12,4 +12,4 @@ This repo is related to Google Coding Challenge, given to Bright Network Interns
 - And run Command: python -m pytest
 
 ## All Test Pass - Screenshot:
-![All test Passed!](Screenshots/gcc.png)
+![All test Passed!](Screenshot (23).png)

@@ -11,5 +11,5 @@ This repo is related to Google Coding Challenge, given to Bright Network Interns
 - set CMD/terminal address to project dictionary (cd PROJECT_PATH)
 - And run Command: python -m pytest
 
-## All Test Pass - Screenshot:
+## All Test Passed - Screenshot:
 ![All test Passed!](Screenshot (23).png)
